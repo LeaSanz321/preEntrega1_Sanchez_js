@@ -102,7 +102,7 @@
   
   let opcion = prompt(
     "Seleccione una opción: \n" +
-    "1. Buscar cancióon por título \n" +
+    "1. Buscar canción por título \n" +
     "2. Buscar canción por artista \n" +
     "3. Buscar canción por género"
   );
